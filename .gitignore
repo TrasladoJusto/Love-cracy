@@ -1,0 +1,19 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# NO ignorar archivos del proyecto
+# Todos los archivos HTML, CSS, JS, SVG, MP3 deben subirse 
